@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net.Http;
+using System.Threading;
 using Newtonsoft.Json.Linq;
 
 namespace APIExercise
@@ -17,6 +18,7 @@ namespace APIExercise
             Console.WriteLine("WELCOME TO THE 2020 PRESIDENTIAL CONVENTION.");
             Console.WriteLine("Today our Republican candidate Kanye West will be debating the staunch Libertarian Ron Swanson.");
             Console.WriteLine();
+            Thread.Sleep(200);
 
             //Candidate responses 
             var respond = new CandidateResponse();
@@ -24,7 +26,9 @@ namespace APIExercise
             respond.CandidatesRespond(qTwo);
             respond.CandidatesRespond(qThree);
 
-           
+            string qFour = respond.GetQuestion();
+            respond.CandidatesRespond(qFour);
+
         }
     }
 }
