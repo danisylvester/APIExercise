@@ -8,20 +8,23 @@ namespace APIExercise
     {
         static void Main(string[] args)
         {
-            var client = new HttpClient();
-            var qGenerator = new QuoteGenerator(client);
+            //Questions
+            string qOne = "Q1: How will you prevent pharmaceutical companies from driving up the costs of life-saving drugs?";
+            string qTwo = "Q2: What are you going to do about climate change?";
+            string qThree = "Q3: How will you address homelessness?";
 
+            //Greeting
+            Console.WriteLine("WELCOME TO THE 2020 PRESIDENTIAL CONVENTION.");
+            Console.WriteLine("Today our Republican candidate Kanye West will be debating the staunch Libertarian Ron Swanson.");
+            Console.WriteLine();
 
-            for(int i = 0; i < 5; i++)
-            {
-                var kanyeQuote = qGenerator.GetKanyeQuote();
-                Console.WriteLine($"Kanye: '{kanyeQuote}'");
-                Console.WriteLine();
+            //Candidate responses 
+            var respond = new CandidateResponse();
+            respond.CandidatesRespond(qOne);
+            respond.CandidatesRespond(qTwo);
+            respond.CandidatesRespond(qThree);
 
-                var ronQuote = qGenerator.GetRonSwansonQuote();
-                Console.WriteLine($"Ron Swanson: '{ronQuote}'");
-                Console.WriteLine("....................................................");
-            }
+           
         }
     }
 }
