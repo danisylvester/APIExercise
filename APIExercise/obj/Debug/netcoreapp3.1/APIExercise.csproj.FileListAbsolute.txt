@@ -1,0 +1,15 @@
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.exe
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.AssemblyInfo.cs
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.deps.json
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.runtimeconfig.json
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.dll
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\APIExercise.pdb
+C:\Users\Dani\source\repos\APIExercise\APIExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.csproj.CopyComplete
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.dll
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.pdb
+C:\Users\Dani\source\repos\APIExercise\APIExercise\obj\Debug\netcoreapp3.1\APIExercise.genruntimeconfig.cache
